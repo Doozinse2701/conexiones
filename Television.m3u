@@ -15,9 +15,19 @@ https://nusxdb2k9p.azcdn381.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=228rLB76KEtpCklM
 https://nusxdb2k9p.azcdn381.net:8443/hls/b5orbxs8ze8.m3u8?s=arBeYJtAAlGfGUoDhYn_FQ&e=1625520800
 
 #EXTM3U
-#EXTINF:5 type="estream" channelId="-1" name="co:DirecTV Sports" group="Colombia" logo="" tvg-country="co",DirecTV Sports
+#EXTINF:5 type="estream" channelId="-1" name="co:DirecTV Sports" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2019/11/directv-sports.png" tvg-country="co",DirecTV Sports
 https://nusxdb2k9p.azcdn381.net:8443/hls/utp9qmmg.m3u8?s=qj3rThfKyZZoFZHGGXGE7g&e=1625521560
 
 #EXTM3U
-#EXTINF:6 type="estream" channelId="-1" name="co:Discovery Channel" group="Colombia" logo="" tvg-country="co",Discovery Channel
+#EXTINF:6 type="estream" channelId="-1" name="co:Discovery Channel" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2019/11/discovery-channel.png" tvg-country="co",Discovery Channel
 https://nusxdb2k9p.azcdn381.net:8443/hls/pp7wc09i0.m3u8?s=BzZgoTo-Fa3nb3Vh6E4ARA&e=1625522370
+
+
+#EXTM3U
+#EXTINF:6 type="estream" channelId="-1" name="co:TNT" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2019/11/tnt.jpg" tvg-country="co",TNT
+https://nusxdb2k9p.azcdn381.net:8443/hls/lqo9fv.m3u8?s=DyB-goaRWPVuDcgdGZGzLw&e=1625524362
+
+#EXTM3U
+#EXTINF:6 type="estream" channelId="-1" name="co:Space" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2019/11/space.png" tvg-country="co",Space
+https://nusxdb2k9p.azcdn381.net:8443/hls/vdjqriuj6.m3u8?s=THJd0aRF5TXgP98VRKwocw&e=1625524549
+
