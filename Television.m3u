@@ -17,3 +17,7 @@ https://nusxdb2k9p.azcdn381.net:8443/hls/b5orbxs8ze8.m3u8?s=arBeYJtAAlGfGUoDhYn_
 #EXTM3U
 #EXTINF:5 type="estream" channelId="-1" name="co:DirecTV Sports" group="Colombia" logo="" tvg-country="co",DirecTV Sports
 https://nusxdb2k9p.azcdn381.net:8443/hls/utp9qmmg.m3u8?s=qj3rThfKyZZoFZHGGXGE7g&e=1625521560
+
+#EXTM3U
+#EXTINF:5 type="estream" channelId="-1" name="co:DirecTV Sports" group="Colombia" logo="" tvg-country="co",DirecTV 2
+https://uqload.com/dl?op=view&file_code=vh976p60mt6n&hash=5720743-191-102-1625500491-ea6a9311c604c954482e19a4d01fabba&embed=1&adb=0
