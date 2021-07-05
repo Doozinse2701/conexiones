@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="estream" channelId="-1" name="co:CaracolTv" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2020/01/caracol-television.png" tvg-country="co",Caracol Tv
-https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/52_.m3u8?token=sMr2rNKmrjAW2dP9PfLc1w&expires=1625496142
+https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/20_.m3u8?token=yVbE6ihOELIv0L2sAG2y6A&expires=1625497076
 #EXTM3U
 #EXTINF:1 type="estream" channelId="-1" name="co:FOX" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2020/01/caracol-television.png" tvg-country="co",FOX
 https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/52_.m3u8?token=sMr2rNKmrjAW2dP9PfLc1w&expires=1625496142
