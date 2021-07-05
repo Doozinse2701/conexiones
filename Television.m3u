@@ -4,3 +4,6 @@ https://nusxdb2k9p.azcdn381.net:8443/hls/z1dzi.m3u8?s=OryIUWpBCl-ykYAIz1AQsg&e=1
 #EXTM3U
 #EXTINF:1 type="estream" channelId="-1" name="co:Caracol TV" group="Colombia" logo="https://telegratis.org/wp-content/uploads/2020/01/caracol-television.png" tvg-country="co",Caracol TV
 https://nusxdb2k9p.azcdn381.net:8443/hls/u8qy1re4gyqjbnw.m3u8?s=Wi6L6v4m_d7iSk3diN7FNg&e=1625513939
+
+#EXTINF:0 type="estream" channelId="-1" name="co:Cinemax" group="Colombia" logo="" tvg-country="co",Cinemax
+https://nusxdb2k9p.azcdn381.net:8443/hls/p94egqya1e.m3u8?s=CU7zF5SAxotCoUSC5416Aw&e=1625515484
