@@ -1,772 +1,1462 @@
-#EXTM3U
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 1
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 2
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 5
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 6
-https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 7
-https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Live Event🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg",Live 8
-http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png",TV1 [B]
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",RTM TV 2 [B]
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",TV6
-https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3 (B)
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV 3 (B2)
-http://mantul.biz.id:8888/sora/sora/153
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/New_logo_TV9_%28Malaysia%29.svg/1200px-New_logo_TV9_%28Malaysia%29.svg.png",TV 9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png",TV Ikim (1080p)
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra [B]
-http://mantul.biz.id:8888/sora/sora/195
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png",Citra [C]
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png",Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png",Prima [B]
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo [B]
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",RIA HD
-http://mantul.biz.id:8888/sora/sora/1105
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png",RIA HD [D]
-http://hottest.fit:8080/zain/zain123/9613
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Warna HD [B]
-http://mantul.biz.id:8888/sora/sora/2555
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png",Aura [B]
-http://mantul.biz.id:8888/sora/sora/5010
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",BollyOne HD [B]
-http://hottest.fit:8080/zain/zain123/28691
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 小太阳 (Astro Xiao Tai Yang)
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",Astro 欢喜台 (Astro Hua Hee Dai)
-http://hottest.fit:8080/zain/zain123/28702
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/440px-Astro_logo_-_Magenta_-_Copy.png",TVB Xing He 星河
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",Warna Backup
-http://hottest.fit:8080/zain/zain123/9612
-#EXTINF:-1 group-title="Malaysia🇲🇾" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/tv-ikim.png",RTM Parlimen (Dewan Rakyat) (1080p)
-https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png",Citra Bioskop
-http://mantul.biz.id:8888/sora/sora/5284
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png",Citra Dangdut
-http://mantul.biz.id:8888/sora/sora/301
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png",GTV HD
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/sV6MzVZ/net.png",NET TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png",MNC TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/RCTI_Logo_2012_New.gif",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png",RTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png",RTV HD
-http://mantul.biz.id:8888/sora/sora/217
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png",SCTV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png",Indosiar
-http://nonton.wap.sh/id/002.m3u8
-#EXTINF:-1 group-title="Indonesia🇮🇩" tvg-logo="http://www.jtv.co.id/image/logojtv1.png",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg",CH-5
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg",CH-U
-http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CHANNEL NEWS ASIA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",FOX SPORTS 1 HD
-http://hottest.fit:8080/zain/zain123/7652
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",FOX SPORTS 2
-http://hottest.fit:8080/zain/zain123/7653
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",FOX SPORTS 3
-http://hottest.fit:8080/zain/zain123/7654
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg",HBO ASIA
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png",SURIA
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 group-title="Singapore🇸🇬" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TVN HD
-http://hottest.fit:8080/zain/zain123/9611
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 1
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 2
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 4
-http://dyscdnali1.douyucdn.cn/live/4332rz1B1TLlheIC.flv?uuid=
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://i.imgur.com/IYutFKh.jpg",apFlix Movie 5
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",&FLix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sony_PIX_HD_India.jpg",Sony PixHD
-http://mantul.biz.id:8888/sora/sora/6699
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp",HBO GO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp",HBO FHD
-http://mantul.biz.id:8888/sora/sora/1
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/hbo.webp",HBO [B]
-http://eroz84.wap.sh/movies/hbo.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature GO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature FHD
-http://mantul.biz.id:8888/sora/sora/1019
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature [B]
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits GO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits [B]
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits FHD
-http://mantul.biz.id:8888/sora/sora/4
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family FHD
-http://mantul.biz.id:8888/sora/sora/6
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax GO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax [B]
-https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax FHD
-http://mantul.biz.id:8888/sora/sora/89
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",Red HBO GO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png",FOX MOVIES
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png",FOX ACTION
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX FAMILY
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png",FOX MOVIES [B]
-http://mantul.biz.id:8888/sora/sora/8545
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png",FOX ACTION [B]
-http://mantul.biz.id:8888/sora/sora/8543
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg",tVN Movies HD
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg",tVN Movies HD [B]
-http://mantul.biz.id:8888/sora/sora/6472
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png",Celestial Classic 天映经典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",Celestial Movies 天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",Celestial Movies [B]
-http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png",ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Movies🎦" tvg-logo="https://pbs.twimg.com/profile_images/1349868205699977217/ktPqGRSu_400x400.jpg",Kung Fu Classic
-http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png",TVRI Sport
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B]
-http://iptv.tvmalaysia.cc:80/titi3/titi3/6707
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Arena [B2]
-http://mantul.biz.id:8888/sora/sora/4985
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",eGG Network
-http://45.126.83.51/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",eGG Network [B]
-http://45.126.83.51/uq2663/h/h22/02.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",BeinSports HD 1
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png",BeinSports HD 2
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/79/9f/11/799f112a24fa359d82d460b8fd2fd3b7.jpg",WWE Network
-http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjhNX3BOhiTyK6N2Izk20aSdsSyoCr_0QJBC1_Y7y4=s900-c-k-c0x00ffffff-no-rj",UFC Fight
-http://mantul.biz.id:8888/sora/sora/2045
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro SuperSport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg",Sony Ten 1 HD
-http://103.153.39.34:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg",Sony Ten 2 HD
-http://103.153.39.34:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg",Sony Ten 3 HD
-http://103.153.39.34:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 1
-http://webo.asia:80/arif/arif/15260
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
-http://webo.asia:80/arif/arif/15259
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORTTV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",SPORTTV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.imgur.com/PgewaUj.jpg",Champions TV 1
-http://mantul.biz.id:8888/sora/sora/232
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.imgur.com/PgewaUj.jpg",Champions TV 2
-http://mantul.biz.id:8888/sora/sora/253
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro Supersport 1 B
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro Supersport 2 B
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro Supersport 3 B
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png",Astro Supersport 4 B
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg",BT Sport 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta
-https://95-213-224-180.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png",Fox Sports
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png",Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png",Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.movieclubhd.tv/src/images/live/tsport1.jpg",TRUE SPORT HD 1
-https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORTTV 1 [B]
-http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORTTV 2 [B]
-http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",SPORTTV 3 [B]
-http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4 [B]
-http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5 [B]
-http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",Red Bull TV [B]
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-1.jpg",True Premier HD 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-2-800x445.jpg",True Premier HD 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.pn",True Premier HD 3
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier HD 4
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier HD 5
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/09/Untitled-design-61.png",Samsung Plus
-https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="https://www.digitaltveurope.com/files/2016/05/Fight-Channel-World-logo.png",Fight Channel
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",Ceria [B]
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png",CARTOON NETWORK
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png",CARTOON NETWORK[B]
-http://mantul.biz.id:8888/sora/sora/248
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",NICKELODEON
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",NICKELODEON [B]
-http://mantul.biz.id:8888/sora/sora/67
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://i.scdn.co/image/ab67616d0000b27331dd6992432d6a7e9204c6fc",Baby Songs Channel
-http://mantul.biz.id:8888/sora/sora/1141
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://muar2u.com/img/biznetkids.png",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV
-http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png",DISNEY JUNIOR
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png",DISNEY JUNIOR [B]
-http://mantul.biz.id:8888/sora/sora/698
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg",DISNEY CHANNEL
-http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://mhscattalk.com/wp-content/uploads/2020/12/disney-channel-logo.jpg",DISNEY CHANNEL [B]
-http://mantul.biz.id:8888/sora/sora/4632
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png",DISNEY XD [B]
-http://stream.tvtap.live:8081/live/disneyxd.stream/chunks.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BOOMERANG
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BOOMERANG [B]
-http://mantul.biz.id:8888/sora/sora/25
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png",NICK JR
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png",NICK JR [B]
-http://mantul.biz.id:8888/sora/sora/1197
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png",ANIMAX
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png",ANIMAX [B]
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13",ANIPLUS
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Anitoon🐋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang TH
-https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL.png",MakkahTV
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w655950915.m3u8?v=2945006303
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://i.ytimg.com/vi/fwQNS4jysfY/hqdefault.jpg",Qur'an TV
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2066488187.m3u8
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png/revision/latest?cb=20180922124010",Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304",Ashiil TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://i.postimg.cc/t4TjZWvj/Wesal-Tv.png",Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
-#EXTINF:-1 group-title="Religi☪️" tvg-logo="https://i.postimg.cc/DyhfZWKv/Ahsan-Tv.png",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/player.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-One-HD-Ch393-300x185.png",One HD
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-One-HD-Ch393-300x185.png",One HD [ID]
-http://45.126.83.51/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-One-HD-Ch393-300x185.png",One HD [B]
-http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="http://kbsworldimage.kbs.co.kr/images/layout/logo/logo_world.jpg",KBS World (Backup)
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Gem_TV_Asia_logo.jpg",Sony GEM
-http://45.126.83.51/uq2663/h/h19/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://www.ohk-tv.com/img/logo.png",OH! K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png",K Plus
-http://45.126.83.51/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://www.hitstv.com/img/HITS-WWW-Banner1.png",Hits
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png",Lifetime
-http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TVN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TVN [B]
-http://mantul.biz.id:8888/sora/sora/46
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png",Star World
-http://mantul.biz.id:8888/sora/sora/6676
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",Thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",Thrill (B)
-http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV [B]
-http://hottest.fit:8080/zain/zain123/33255
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://mantul.biz.id:8888/sora/sora/6469
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN [B]
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX HD
-http://45.126.83.51/dr9445/h/h07/01.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif",FOX CRIME
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",Fox Life TH
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_Movies_logo.png",Blue Ant Entertainment TH
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png",Blue Ant Extreme TH
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",KIX TH
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner TV TH
-http://203.154.243.89:11205/
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Angry Birds Toons
-http://mantul.biz.id:8888/sora/sora/8381
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Baby Bus Indonesia
-http://mantul.biz.id:8888/sora/sora/1013
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Cow & Chicken
-http://mantul.biz.id:8888/sora/sora/8463
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Doraemon
-http://mantul.biz.id:8888/sora/sora/124
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Just For Laughs
-http://mantul.biz.id:8888/sora/sora/8466
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Mickey Mouse
-http://mantul.biz.id:8888/sora/sora/1214
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Mr. Bean
-http://mantul.biz.id:8888/sora/sora/8464
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Talking Tom
-http://mantul.biz.id:8888/sora/sora/579
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Talking Tom and Friends Movie
-http://mantul.biz.id:8888/sora/sora/602
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Talking Tom Heroes
-http://mantul.biz.id:8888/sora/sora/1126
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Tom Y Jerry
-http://mantul.biz.id:8888/sora/sora/8461
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Tom Y Jerry Kids
-http://mantul.biz.id:8888/sora/sora/8408
-#EXTINF:-1 group-title="24/7💿" tvg-logo="https://image.freepik.com/free-vector/open-24-7-neon-style-sign-illustration_189374-91.jpg",24/7 Upin Ipin
-http://mantul.biz.id:8888/sora/sora/8246
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png",Channel V
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg",Go-rtv Music
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Logo_m2o_%282012%29.png",M2O Music
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://i1.sndcdn.com/avatars-000130898159-ax9fur-t500x500.jpg",Magic Music
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://allenlane.org.uk/wp-content/uploads/2016/02/music24-new.png",Music 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/NG_music.png",NG Music
-http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://www.cnet.com/a/img/TFemXNT6Wk2eKxaw5rNTyvJF9z8=/940x0/2019/04/04/5c404f14-17e9-4897-9770-81f4fa6695e1/gettyimages-914593248.jpg",Play Music
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="Music🎶" tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg",PortalFoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",NAT GEO PEOPLE
-http://mantul.biz.id:8888/sora/sora/8314
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png",Nat Geo Wild
-http://mantul.biz.id:8888/sora/sora/10220
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",National Geographic HD
-http://mantul.biz.id:8888/sora/sora/8266
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png",Nat Geo Wild [B]
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet [B]
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://telegra.ph/file/afa7944f2ef89c711d58c.png",HGTV [B]
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",Crime + Investigation HD
-http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",Nat Geo [B]
-http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=84797b799ae18d1b
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png",Discovery SCI
-http://mantul.biz.id:8888/sora/sora/5016
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png",AFC
-http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hu-the-fishing-hunting-channel-4312.jpg",Fishing & Hunting
-http://tv.rebeliptv.com:83/91595487/07862755/378272.ts
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fishing_tv_kr.png",Fishing TV
-http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",Nat Geo TH
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png",Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png",Outdoor Channel AU
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="http://muar2u.com/apflix/uploads/tv_image/failarmy.jpg",Fail Army TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://customercarecontacts.com/wp-content/uploads/2019/05/history-channel-logo.jpg",History
-http://mantul.biz.id:8888/sora/sora/10
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://customercarecontacts.com/wp-content/uploads/2019/05/history-channel-logo.jpg",History [B]
-http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
-http://mantul.biz.id:8888/sora/sora/5022
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png?itok=Fy7INNpu",Al Jazeera
-http://mantul.biz.id:8888/sora/sora/202
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1200px-Phoenix_HK.svg.png",Phoenix Chinese
-http://mantul.biz.id:8888/sora/sora/10841
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",CGTN
-http://mantul.biz.id:8888/sora/sora/148
-#EXTINF:-1 group-title="Lifestyle🏕️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",H2
-http://mantul.biz.id:8888/sora/sora/10879
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png",Awani B
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://www.bernama.com/tv/img/bernama.png",Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW TV Asia
-http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://cdn-static.metube.id//live/image/KfR5iWbuZJ4vPJWMHJ1O.png",Metro TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 group-title="Berita📰" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png",NHK News
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-#EXTINF:-1 group-title="Berita📰",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[001] Surah Alfatihah (Pembukaan)
-https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[002] Surah Al-Baqarah (Lembu Betina)
-https://archive.org/download/MurotalMR/002.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[003] Surah Ali 'Imran (Keluarga Imran)
-https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[004] Surah An-Nisaa' (Wanita)
-https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[005] Surah Al-Maa'idah (Hidangan)
-https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[006] Surah Al-An'aam (Binatang Ternakan)
-https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[007] Surah Al-A'raaf (Tempat Tertinggi)
-https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[008] Surah Al-Anfaal (Rampasan Perang)
-https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[009] Surah At-Taubah (Pengampunan)
-https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[010] Surah Yunus (Nabi Yunus a.s.)
-https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[011] Surah Hud (Nabi Hud a.s.)
-https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[012] Surah Yusuf (Nabi Yusuf a.s.)
-https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[013] Surah Ar-Ra'd (Guruh)
-https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
-https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[015] Surah Al-Hijr (Kawasan Berbatu)
-https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[016] Surah An-Nahl (Lebah)
-https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[017] Surah Al-Israa' (Perjalanan Malam)
-https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[018] Surah Al-Kahfi (Gua)
-https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[019] Surah Maryam (Siti Maryam)
-https://archive.org/download/MurotalMR/019.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[020] Surah Taahaa
-https://archive.org/download/MurotalMR/020.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[021] Surah Al-Anbiyaa' (Para Nabi)
-https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[022] Surah Al-Hajj (Haji)
-https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[023] Surah Al-Mu'minun (Golongan yang Beriman)
-https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[024] Surah An-Nuur (Cahaya)
-https://archive.org/download/MurotalMR/024.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
-https://archive.org/download/MurotalMR/025.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[026] Surah Asy-Syu'araa (Para Penyair)
-https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚",[027] Surah An-Naml (Semut)
-https://archive.org/download/MurotalMR/027.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[028] Surah Al-Qasas (Cerita-cerita)
-https://archive.org/download/MurotalMR/028.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[029] Surah Al-'Ankabut (Labah-labah)
-https://archive.org/download/MurotalMR/029.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[030] Surah Ar-Rum (Bangsa Rom)
-https://archive.org/download/MurotalMR/030.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[031] Surah Luqman (Luqman)
-https://archive.org/download/MurotalMR/031.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[032] Surah As-Sajdah (Sujud)
-https://archive.org/download/MurotalMR/032.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
-https://archive.org/download/MurotalMR/033.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[034] Surah Saba' (Kaum Saba')
-https://archive.org/download/MurotalMR/034.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[035] Surah Faatir (Pencipta)
-https://archive.org/download/MurotalMR/035.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[036] Surah Yaasin
-https://archive.org/download/MurotalMR/036.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[037] Surah As-Saaffat (Yang Teratur Berbaris)
-https://archive.org/download/MurotalMR/037.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[038] Surah Saad
-https://archive.org/download/MurotalMR/038.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[039] Surah Az-Zumar (Rombongan)
-https://archive.org/download/MurotalMR/039.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
-https://archive.org/download/MurotalMR/040.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[041] Surah Fussilat (Dijelaskan)
-https://archive.org/download/MurotalMR/041.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[042] Surah Asy-Syuraa (Permesyuaratan)
-https://archive.org/download/MurotalMR/042.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[043] Surah Az-Zukhruf (Perhiasan Emas)
-https://archive.org/download/MurotalMR/043.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[044] Surah Ad-Dukhaan (Kabut / Asap)
-https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[045] Surah Al-Jatsiyah (Yang Berlutut)
-https://archive.org/download/MurotalMR/045.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
-https://archive.org/download/MurotalMR/046.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[047] Surah Muhammad (Nabi Muhammad SAW)
-https://archive.org/download/MurotalMR/047.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[048] Surah Al-Fath (Kemenangan)
-https://archive.org/download/MurotalMR/048.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[049] Surah Al-Hujurat (Bilik-bilik)
-https://archive.org/download/MurotalMR/049.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[050] Surah Qaaf
-https://archive.org/download/MurotalMR/050.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
-https://archive.org/download/MurotalMR/051.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[052] Surah At-Tur (Bukit)
-https://archive.org/download/MurotalMR/052.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[053] Surah An-Najm (Bintang)
-https://archive.org/download/MurotalMR/053.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[054] Surah Al-Qamar (Bulan)
-https://archive.org/download/MurotalMR/054.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[055] Surah Ar-Rahman (Yang Maha Pemurah)
-https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
-https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[057] Surah Al-Hadid (Besi)
-https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
-https://archive.org/download/MurotalMR/058.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[059] Surah Al-Hasyr (Pengusiran)
-https://archive.org/download/MurotalMR/059.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
-https://archive.org/download/MurotalMR/060.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[061] Surah As-Saf (Barisan)
-https://archive.org/download/MurotalMR/061.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[062] Surah Al-Jumu'ah (Hari Jumaat)
-https://archive.org/download/MurotalMR/062.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[063] Surah Al-Munafiquun (Golongan Munafik)
-https://archive.org/download/MurotalMR/063.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
-https://archive.org/download/MurotalMR/064.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[065] Surah At-Talaq (Cerai / Talak)
-https://archive.org/download/MurotalMR/065.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[066] Surah At-Tahrim (Mengharamkan)
-https://archive.org/download/MurotalMR/066.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[067] Surah Al-Mulk (Kerajaan)
-https://archive.org/download/MurotalMR/067.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[068] Surah Al-Qalam (Pena / Kalam)
-https://archive.org/download/MurotalMR/068.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
-https://archive.org/download/MurotalMR/069.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
-https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[071] Surah Nuh (Nabi Nuh a.s.)
-https://archive.org/download/MurotalMR/071.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[072] Surah A-Jin (Jin)
-https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[073] Surah Al-Muzammil (Yang Berselimut)
-https://archive.org/download/MurotalMR/073.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[074] Surah Al-Muddathir (Yang Berselubung)
-https://archive.org/download/MurotalMR/074.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
-https://archive.org/download/MurotalMR/075.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[076] Surah Al-Insaan (Manusia)
-https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
-https://archive.org/download/MurotalMR/077.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[078] Surah An-Naba' (Berita Besar)
-https://archive.org/download/MurotalMR/078.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
-https://archive.org/download/MurotalMR/079.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[080] Surah 'Abasa (Dia Bermasam Muka)
-https://archive.org/download/MurotalMR/080.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[081] Surah At-Takwiir (Menggulung)
-https://archive.org/download/MurotalMR/081.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[082] Surah Al-Infitar (Terpecah & Terbelah)
-https://archive.org/download/MurotalMR/082.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
-https://archive.org/download/MurotalMR/083.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[084] Surah Al-Insyiqaaq (Terbelah)
-https://archive.org/download/MurotalMR/084.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[085] Surah Al-Buruj (Gugusan Bintang)
-https://archive.org/download/MurotalMR/085.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[086] Surah At-Taariq (Pengunjung Malam)
-https://archive.org/download/MurotalMR/086.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[087] Surah Al-A'laa (Yang Tertinggi)
-https://archive.org/download/MurotalMR/087.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
-https://archive.org/download/MurotalMR/088.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
-https://archive.org/download/MurotalMR/089.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[090] Surah Al-Balad (Negeri)
-https://archive.org/download/MurotalMR/090.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[091] Surah Asy-Syams (Matahari)
-https://archive.org/download/MurotalMR/091.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[092] Surah Al-Lail (Malam)
-https://archive.org/download/MurotalMR/092.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
-https://archive.org/download/MurotalMR/093.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
-https://archive.org/download/MurotalMR/094.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[095] Surah At-Tin (Buah Tin / Buah Ara)
-https://archive.org/download/MurotalMR/095.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[096] Surah Al-'Alaq (Segumpal Darah)
-https://archive.org/download/MurotalMR/096.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[097] Surah Al-Qadr (Kemuliaan)
-https://archive.org/download/MurotalMR/097.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[098] Surah Al-Baiyinah (Bukti yang Nyata)
-https://archive.org/download/MurotalMR/098.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[099] Surah Al-Zalzalah (Kegoncangan)
-https://archive.org/download/MurotalMR/099.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
-https://archive.org/download/MurotalMR/100.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
-https://archive.org/download/MurotalMR/101.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[102] Surah At-Takathur (Bermegah-Megah)
-https://archive.org/download/MurotalMR/102.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[103] Surah Al-'Asr (Masa)
-https://archive.org/download/MurotalMR/103.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[104] Surah Al-Humazah (Pengumpat)
-https://archive.org/download/MurotalMR/104.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[105] Surah Al-Fiil (Gajah)
-https://archive.org/download/MurotalMR/105.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[106] Surah Quraisy (Kaum Quraisy)
-https://archive.org/download/MurotalMR/106.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[107] Surah Al-Ma'un (Barangan Berguna)
-https://archive.org/download/MurotalMR/107.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[108] Surah Al-Kauthar (Sungai Di Syurga)
-https://archive.org/download/MurotalMR/108.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[109] Surah Al-Kafirun (Golongan Kafir)
-https://archive.org/download/MurotalMR/109.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[110] Surah An-Nasr (Pertolongan)
-https://archive.org/download/MurotalMR/110.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
-https://archive.org/download/MurotalMR/111.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
-https://archive.org/download/MurotalMR/112.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
-https://archive.org/download/MurotalMR/113.mp3
-#EXTINF:-1 group-title="Al-Qur'an📚" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[114] Surah An-Naas (Manusia)
-https://archive.org/download/MurotalMR/114.mp3
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",Sinar FM
-http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg",Klasik Nasional FM
-https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",Era FM
-http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
-http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png",Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/best.png",Best FM
-http://s8.voscast.com:8686/;stream.mp3
-#EXTINF:-1 group-title="Radio📻" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/kool.png",Kool FM
-http://mediaprima.rastream.com/mediaprima-koolfm.android
-
+{
+  "name": "TV",
+  "author": "Tutele",
+  "url": "https://raw.githubusercontent.com/jeepeers/player/main/screen",
+  "down": "https://pastebin.com/raw/2i4VwdYi",
+  "epg": "",
+  "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/icono.jpg",
+  "telegram": "",
+  "info": "Playlist",
+  "groups": [
+    {
+      "name": "Nacionales",
+      "image": "",
+      "stations": [
+        {
+          "name": "LA 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png",
+          "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
+          "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+          "url2": "https://freevip.xyz/sport/la_1/index.m3u8",
+          "urlweb": "http://www.rtve.es/directo/la-1/",
+          "epgId": "LA1.TV"
+        },
+        {
+          "name": "LA 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la2.png",
+          "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
+          "url1": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
+          "url2": "https://freevip.xyz/live/la_2/index.m3u8",
+          "urlweb": "http://www.rtve.es/directo/la-2/",
+          "epgId": "LA2.TV"
+        },
+        {
+          "name": "Antena 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/antena3.png",
+          "url": "https://freevip.xyz/live/antena_3/index.m3u8",
+          "url1": "https://directo.atresmedia.com/1608011979_512feb2ea89b01ae66d39bf79efd383f84db8eec/antena3/master.m3u8",
+          "url2": "https://freevip.xyz/live/antena_3/index.m3u8",
+          "urlweb": "https://www.atresplayer.com/directos/antena3/",
+          "epgId": "Antena3.TV"
+        },
+        {
+          "name": "Cuatro",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cuatro.png",
+          "url": "https://freevip.xyz/sport/cuatro/index.m3u8",
+          "url1": "https://freevip.xyz/sport/cuatro/index.m3u8",
+          "urlweb": "https://www.mitele.es/directo/cuatro",
+          "epgId": "Cuatro.TV"
+        },
+        {
+          "name": "Telecinco",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/telecinco.png",
+          "url": "https://freevip.xyz/sport/telecinco/index.m3u8",
+          "url1": "https://freevip.xyz/sport/telecinco/index.m3u8",
+          "urlweb": "https://www.telecinco.es/endirecto/",
+          "epgId": "Telecinco.TV"
+        },
+        {
+          "name": "La Sexta",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/seis.png",
+          "url": "https://freevip.xyz/sport/la_sexta/index.m3u8",
+          "url1": "https://freevip.xyz/sport/la_sexta/index.m3u8",
+          "urlweb": "https://www.atresplayer.com/directos/lasexta/",
+          "epgId": "LaSexta.TV"
+        },
+        {
+          "name": "24 Horas",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/24h.png",
+          "url": "https://rtvelivestream.akamaized.net/24h_dvr.m3u8",
+          "url1": "https://rtvelivestream.akamaized.net/24h_dvr.m3u8",
+          "urlweb": "http://www.rtve.es/directo/canal-24h/",
+          "epgId": "24Horas.TV"
+        },
+        {
+          "name": "Neox",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/neox.png",
+          "url": "https://freevip.xyz/live/neox/index.m3u8",
+          "url1": "https://freevip.xyz/live/neox/index.m3u8",
+          "urlweb": "http://www.atresplayer.com/directos/television",
+          "epgId": "Neox.TV"
+        },
+        {
+          "name": "Nova",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/nova.png",
+          "url": "https://freevip.xyz/live/nova/index.m3u8",
+          "url1": "https://freevip.xyz/live/nova/index.m3u8",
+          "urlweb": "http://www.atresplayer.com/directos/television",
+          "epgId": "Nova.TV"
+        },
+        {
+          "name": "Factoría de Ficción",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/fdf.png",
+          "url": "https://freevip.xyz/live/fdf/index.m3u8",
+          "url1": "https://freevip.xyz/live/fdf/index.m3u8",
+          "epgId": "FactoríadeFicción.TV"
+        },
+        {
+          "name": "Energy",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/energy.png",
+          "url": "https://freevip.xyz/live/energy/index.m3u8",
+          "url1": "https://freevip.xyz/live/energy/index.m3u8",
+          "urlweb": "https://www.energytv.es/en-directo/",
+          "epgId": "Energy.TV"
+        },
+        {
+          "name": "Divinity",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/divinity.png",
+          "url": "https://freevip.xyz/live/divinity/index.m3u8",
+          "url1": "https://freevip.xyz/live/divinity/index.m3u8",
+          "urlweb": "https://www.divinity.es/endirecto/",
+          "epgId": "Divinity.TV"
+        },
+        {
+          "name": "Mega",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mega.png",
+          "url": "https://freevip.xyz/live/mega/index.m3u8",
+          "url1": "https://freevip.xyz/live/mega/index.m3u8",
+          "urlweb": "http://www.atresplayer.com/directos/television/mega/",
+          "epgId": "Mega.TV"
+        },
+        {
+          "name": "Paramount Channel",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/paramountchannel.png",
+          "url": "https://freevip.xyz/live/paramount_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/paramount_channel/index.m3u8",
+          "urlweb": "http://www.paramountchannel.es/programacion/en-directo",
+          "epgId": "ParamountChannel.TV"
+        },
+        {
+          "name": "Ten",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/ten.png",
+          "url": "https://freevip.xyz/live/ten/index.m3u8",
+          "url1": "https://freevip.xyz/live/ten/index.m3u8",
+          "urlweb": "http://tentv.es/",
+          "epgId": "Ten.TV"
+        },
+        {
+          "name": "DKISS",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dkiss.png",
+          "url": "https://freevip.xyz/live/dkiss/index.m3u8",
+          "url1": "https://freevip.xyz/live/dkiss/index.m3u8",
+          "urlweb": "http://www.dkiss.es/",
+          "epgId": "DKISS.TV"
+        },
+        {
+          "name": "BEMAD",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/bemad.png",
+          "url": "https://freevip.xyz/live/be_mad/index.m3u8",
+          "url1": "https://freevip.xyz/live/be_mad/index.m3u8",
+          "urlweb": "https://www.bemad.es/endirecto/",
+          "epgId": "BEMAD.TV"
+        },
+        {
+          "name": "Trece",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/13tv.png",
+          "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+          "url1": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+          "urlweb": "http://trecetv.es/directo",
+          "epgId": "Trece.TV"
+        },
+        {
+          "name": "Viajar",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/viajar.png",
+          "url": "https://freevip.xyz/live/viajar/index.m3u8",
+          "url1": "https://freevip.xyz/live/viajar/index.m3u8",
+          "epgId": "Viajar.TV"
+        },
+        {
+          "name": "7RM",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/siete.png",
+          "url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8",
+          "url1": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8",
+          "urlweb": "http://webtv.7tvregiondemurcia.es/",
+          "epgId": "7RM.TV"
+        },
+        {
+          "name": "TeleMadrid",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/telemadrid.png",
+          "url": "http://www.telemadrid.es/emision-en-directo",
+          "urlweb": "http://www.telemadrid.es/emision-en-directo",
+          "epgId": "TeleMadrid.TV"
+        },
+        {
+          "name": "La Otra",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/laotra.png",
+          "url": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8",
+          "urlweb": "http://www.telemadrid.es/emision-en-directo-laotra",
+          "epgId": "LaOtra.TV"
+        },
+        {
+          "name": "Navarra TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/navarratv.png",
+          "url": "https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8",
+          "url1": "https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8",
+          "urlweb": "http://www.natv.es/Directo",
+          "epgId": "NavarraTV.TV"
+        },
+        {
+          "name": "CyL 7",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/rtvcyl.png",
+          "url": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8",
+          "url1": "https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8",
+          "urlweb": "http://www.rtvcyl.es/DirectoCylTV",
+          "epgId": "CyL7.TV"
+        },
+        {
+          "name": "7 Valencia",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/sietevalencia.png",
+          "url": "https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8",
+          "urlweb": "http://7televalencia.com/directo-7televalencia/",
+          "epgId": "7Valencia.TV"
+        },
+        {
+          "name": "LevanteTV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/levantetv.png",
+          "url": "https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8",
+          "urlweb": "http://www.levantetv.es/default.jsp",
+          "epgId": "LevanteTV.TV"
+        },
+        {
+          "name": "8tv",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/ochotv.png",
+          "url": "https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8",
+          "urlweb": "http://www.8tv.cat/directe/",
+          "epgId": "8tv.TV"
+        },
+        {
+          "name": "TV3 Cat",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tv3.png",
+          "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8",
+          "url1": "https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist_DVR.m3u8",
+          "urlweb": "http://www.ccma.cat/tv3/directe/super3/",
+          "epgId": "TV3Cat.TV"
+        },
+        {
+          "name": "Canal 33",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/33.png",
+          "url": "https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8",
+          "url1": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8",
+          "urlweb": "http://www.telemadrid.es/emision-en-directo-laotra",
+          "epgId": "Canal33.TV"
+        },
+        {
+          "name": "Aragón TV Int",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/aragon.png",
+          "url": "http://www.aragontelevision.es/directo",
+          "urlweb": "http://www.aragontelevision.es/directo",
+          "epgId": "AragónTVInt.TV"
+        },
+        {
+          "name": "ETB Sat",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/eitb.png",
+          "url": "https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+          "urlweb": "http://www.eitb.eus/es/television/etb-sat/",
+          "epgId": "ETBSat.TV"
+        },
+        {
+          "name": "Canal Sur",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/canalsur.png",
+          "url": "",
+          "urlweb": "http://www.canalsur.es/tv_directo-1193.html",
+          "epgId": "CanalSur.TV"
+        },
+        {
+          "name": "TV Galicia",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tvg.png",
+          "url": "http://europa-crtvg.flumotion.com/playlist.m3u8",
+          "urlweb": "http://www.crtvg.es/tvg/tvg-en-directo",
+          "epgId": "TVGalicia.TV"
+        }
+      ]
+    },
+    {
+      "name": "Series",
+      "image": "",
+      "stations": [
+        {
+          "name": "A3series",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/a3s.png",
+          "url": "https://freevip.xyz/live/atreseries/index.m3u8",
+          "url1": "https://freevip.xyz/live/atreseries/index.m3u8",
+          "epgId": "A3series.TV"
+        },
+        {
+          "name": "Movistar Series",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mseries.png",
+          "url": "https://freevip.xyz/live/movistar_series/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_series/index.m3u8",
+          "epgId": "MovistarSeries.TV"
+        },
+        {
+          "name": "M. Seriesmanía",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mseriesmania.png",
+          "url": "https://freevip.xyz/live/movistar_seriesmania/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_seriesmania/index.m3u8",
+          "epgId": "M.Seriesmanía.TV"
+        },
+        {
+          "name": "Comedy Central",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/comedy.png",
+          "url": "https://freevip.xyz/live/comedy_central/index.m3u8",
+          "url1": "https://freevip.xyz/live/comedy_central/index.m3u8",
+          "epgId": "ComedyCentral.TV"
+        },
+        {
+          "name": "#0",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/m0.png",
+          "url": "https://freevip.xyz/live/0/index.m3u8",
+          "url1": "https://freevip.xyz/live/0/index.m3u8",
+          "epgId": "#0.TV"
+        },
+        {
+          "name": "Sundance",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/sundance.png",
+          "url": "https://freevip.xyz/live/sundance/index.m3u8",
+          "url1": "https://freevip.xyz/live/sundance/index.m3u8",
+          "epgId": "Sundance.TV"
+        },
+        {
+          "name": "Fox",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/fox.png",
+          "url": "https://freevip.xyz/live/fox/index.m3u8",
+          "url1": "https://freevip.xyz/live/fox/index.m3u8",
+          "epgId": "Fox.TV"
+        },
+        {
+          "name": "Fox Life",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/foxlife.png",
+          "url": "https://freevip.xyz/live/fox_life/index.m3u8",
+          "url1": "https://freevip.xyz/live/fox_life/index.m3u8",
+          "epgId": "FoxLife.TV"
+        },
+        {
+          "name": "SYFY",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png",
+          "url": "https://freevip.xyz/live/syfy/index.m3u8",
+          "url1": "https://freevip.xyz/live/syfy/index.m3u8",
+          "epgId": "SYFY.TV"
+        }
+      ]
+    },
+    {
+      "name": "Cine",
+      "image": "",
+      "stations": [
+        {
+          "name": "AXN",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png",
+          "url": "https://freevip.xyz/live/axn/index.m3u8",
+          "url1": "https://freevip.xyz/live/axn/index.m3u8",
+          "epgId": "AXN.TV"
+        },
+        {
+          "name": "AXN White",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axnwhite.png",
+          "url": "https://freevip.xyz/live/axn_white/index.m3u8",
+          "url1": "https://freevip.xyz/live/axn_white/index.m3u8",
+          "epgId": "AXNWhite.TV"
+        },
+        {
+          "name": "Hollywood",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/holly.png",
+          "url": "https://freevip.xyz/live/hollywood/index.m3u8",
+          "url1": "https://freevip.xyz/live/hollywood/index.m3u8",
+          "epgId": "Hollywood.TV"
+        },
+        {
+          "name": "Dark",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dark.png",
+          "url": "https://freevip.xyz/live/dark/index.m3u8",
+          "url1": "https://freevip.xyz/live/dark/index.m3u8",
+          "epgId": "Dark.TV"
+        },
+        {
+          "name": "AMC",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png",
+          "url": "https://freevip.xyz/live/amc/index.m3u8",
+          "url1": "https://freevip.xyz/live/amc/index.m3u8",
+          "epgId": "AMC.TV"
+        },
+        {
+          "name": "TCM",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tcm.png",
+          "url": "https://freevip.xyz/live/tcm/index.m3u8",
+          "url1": "https://freevip.xyz/live/tcm/index.m3u8",
+          "epgId": "TCM.TV"
+        },
+        {
+          "name": "Calle 13",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/calle13.png",
+          "url": "https://freevip.xyz/live/calle_13/index.m3u8",
+          "url1": "https://freevip.xyz/live/calle_13/index.m3u8",
+          "epgId": "Calle13.TV"
+        },
+        {
+          "name": "Somos",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/somos.png",
+          "url": "https://freevip.xyz/live/somos/index.m3u8",
+          "url1": "https://freevip.xyz/live/somos/index.m3u8",
+          "epgId": "Somos.TV"
+        },
+        {
+          "name": "M. Drama",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/drama.png",
+          "url": "https://freevip.xyz/live/movistar_drama/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_drama/index.m3u8",
+          "epgId": "M.Drama.TV"
+        },
+        {
+          "name": "Movistar Estrenos",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mestrenos.png",
+          "url": "https://freevip.xyz/live/movistar_estrenos/index.m3u8",
+          "url1": "https://26.listafree.xyz/live/movistar_estrenos/index.m3u8",
+          "epgId": "MovistarEstrenos.TV"
+        },
+        {
+          "name": "M.CineDoc&Roll",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mdocroll.png",
+          "url": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_cinedocroll/index.m3u8",
+          "epgId": "M.CineDoc&Roll.TV"
+        },
+        {
+          "name": "Movistar Comedia",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcomedia.png",
+          "url": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_comedia/index.m3u8",
+          "epgId": "MovistarComedia.TV"
+        },
+        {
+          "name": "Movistar Acción",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/maccion.png",
+          "url": "https://freevip.xyz/live/movistar_accion/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_accion/index.m3u8",
+          "epgId": "MovistarAcción.TV"
+        },
+        {
+          "name": "Movistar Cine N",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mcinen.png",
+          "url": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_cine_espanol/index.m3u8",
+          "epgId": "MovistarCineN.TV"
+        },
+        {
+          "name": "Xtrm",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/xtrm.png",
+          "url": "https://freevip.xyz/live/xtrm/index.m3u8",
+          "url1": "https://freevip.xyz/live/xtrm/index.m3u8",
+          "epgId": "Xtrm.TV"
+        },
+        {
+          "name": "TNT",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png",
+          "url": "https://freevip.xyz/live/tnt/index.m3u8",
+          "url1": "https://freevip.xyz/live/tnt/index.m3u8",
+          "epgId": "TNT.TV"
+        },
+        {
+          "name": "COSMO",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cosmo.png",
+          "url": "https://freevip.xyz/live/cosmo/index.m3u8",
+          "url1": "https://freevip.xyz/live/cosmo/index.m3u8",
+          "epgId": "COSMO.TV"
+        }
+      ]
+    },
+    {
+      "name": "Fútbol",
+      "image": "",
+      "stations": [
+        {
+          "name": "Betis TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/betistv.png",
+          "url": "https://betistv-live.flumotion.com/RmM3t9nhk1ShpnihFtwMmg/1607999980/betistv/live_all/betistv/live_source/chunks.m3u8",
+          "urlweb": "http://www.realbetisbalompie.es/es/rtvbetis/",
+          "epgId": "BetisTV.TV"
+        },
+        {
+          "name": "La Liga TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/liga123.png",
+          "url": "https://freevip.xyz/sport/laliga_tv/index.m3u8",
+          "url1": "https://freevip.xyz/sport/laliga_tv/index.m3u8",
+          "epgId": "LaLigaTV.TV"
+        },
+        {
+          "name": "M. LaLiga",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga/index.m3u8",
+          "epgId": "M.LaLiga.TV"
+        },
+        {
+          "name": "M. LaLiga 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga1.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga_1/index.m3u8",
+          "epgId": "M.LaLiga1.TV"
+        },
+        {
+          "name": "M.LaLiga 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga2.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_laliga_2/index.m3u8",
+          "url2": "https://freevip.xyz/sport/laliga_2/index.m3u8",
+          "epgId": "M.LaLiga2.TV"
+        },
+        {
+          "name": "M.LaLiga 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga3.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_3/index.m3u8",
+          "epgId": "M.LaLiga3.TV"
+        },
+        {
+          "name": "M.LaLiga 4",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga4.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_4/index.m3u8",
+          "epgId": "M.LaLiga4.TV"
+        },
+        {
+          "name": "M.LaLiga 5",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga5.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_5/index.m3u8",
+          "epgId": "M.LaLiga5.TV"
+        },
+        {
+          "name": "M.LaLiga 6",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga6.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_6/index.m3u8",
+          "epgId": "M.LaLiga6.TV"
+        },
+        {
+          "name": "M.LaLiga 7",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga7.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_7/index.m3u8",
+          "epgId": "M.LaLiga7.TV"
+        },
+        {
+          "name": "M.LaLiga 8",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga8.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_8/index.m3u8",
+          "epgId": "M.LaLiga8.TV"
+        },
+        {
+          "name": "M.LaLiga 9",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mliga9.png",
+          "url": "https://freevip.xyz/sport/movistar_laliga_9/index.m3u8",
+          "epgId": "M.LaLiga9.TV"
+        },
+        {
+          "name": "Real Madrid TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/realmadridtv.png",
+          "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+          "url1": "https://freevip.xyz/live/real_madrid_tv/index.m3u8",
+          "urlweb": "https://www.realmadrid.com/real-madrid-tv",
+          "epgId": "RealMadridTV.TV"
+        },
+        {
+          "name": "M. Liga de Campeones",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones/index.m3u8",
+          "url2": "https://freevip.xyz/sport/liga_de_campeones/index.m3u8",
+          "epgId": "M.LigadeCampeones.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones1.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_liga_de_campeones_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/liga_de_campeones_1/index.m3u8",
+          "epgId": "M.LigadeCampeones1.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones2.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/liga_de_campeones_2/index.m3u8",
+          "epgId": "M.LigadeCampeones2.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones3.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_3/index.m3u8",
+          "epgId": "M.LigadeCampeones3.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 4",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones4.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_4/index.m3u8",
+          "epgId": "M.LigadeCampeones4.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 5",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones5.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_5/index.m3u8",
+          "epgId": "M.LigadeCampeones5.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 6",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones6.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_6/index.m3u8",
+          "epgId": "M.LigadeCampeones6.TV"
+        },
+        {
+          "name": "M. Liga de Campeones 7",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mligacampeones7.png",
+          "url": "https://freevip.xyz/sport/movistar_liga_de_campeones_7/index.m3u8",
+          "epgId": "M.LigadeCampeones7.TV"
+        }
+      ]
+    },
+    {
+      "name": "Deportes",
+      "image": "",
+      "stations": [
+        {
+          "name": "Esport 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/esport3.png",
+          "url": "https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist.m3u8",
+          "urlweb": "http://www.ccma.cat/tv3/directe/esport3/",
+          "epgId": "Esport3.TV"
+        },
+        {
+          "name": "Movistar Golf",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mgolf.png",
+          "url": "https://freevip.xyz/live/movistar_golf/index.m3u8",
+          "url1": "https://freevip.xyz/live/movistar_golf/index.m3u8",
+          "epgId": "MovistarGolf.TV"
+        },
+        {
+          "name": "Cazavision",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cazavision.png",
+          "url": "https://freevip.xyz/live/cazavision/index.m3u8",
+          "url1": "https://freevip.xyz/live/cazavision/index.m3u8",
+          "epgId": "Cazavision.TV"
+        },
+        {
+          "name": "Teledeporte",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tdp.png",
+          "url": "https://freevip.xyz/live/teledeporte/index.m3u8",
+          "url1": "https://rtvelivestream.akamaized.net/tdp_dvr.m3u8",
+          "urlweb": "http://www.rtve.es/directo/teledeporte/",
+          "epgId": "Teledeporte.TV"
+        },
+        {
+          "name": "Eurosport 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/eurosport1.png",
+          "url": "https://freevip.xyz/sport/eurosport/index.m3u8",
+          "url1": "https://freevip.xyz/sport/eurosport/index.m3u8",
+          "urlweb": "https://www.eurosport.es/",
+          "epgId": "Eurosport1.TV"
+        },
+        {
+          "name": "Eurosport 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/eurosport2.png",
+          "url": "https://freevip.xyz/sport/eurosport_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/eurosport_2/index.m3u8",
+          "urlweb": "https://www.eurosport.es/",
+          "epgId": "Eurosport2.TV"
+        },
+        {
+          "name": "Caza y Pesca",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/caza.png",
+          "url": "https://freevip.xyz/live/caza_y_pesca/index.m3u8",
+          "url1": "https://freevip.xyz/live/caza_y_pesca/index.m3u8",
+          "epgId": "CazayPesca.TV"
+        },
+        {
+          "name": "Iberalia TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/iberalia.png",
+          "url": "https://freevip.xyz/live/iberalia/index.m3u8",
+          "url1": "https://freevip.xyz/live/iberalia/index.m3u8",
+          "epgId": "IberaliaTV.TV"
+        },
+        {
+          "name": "Toros",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/toros.png",
+          "url": "https://freevip.xyz/live/toros_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/toros_tv/index.m3u8",
+          "epgId": "Toros.TV"
+        },
+        {
+          "name": "GOL",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/goltv.png",
+          "url": "https://freevip.xyz/live/gol_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/gol_tv/index.m3u8",
+          "urlweb": "https://www.goltelevision.com/",
+          "epgId": "GOL.TV"
+        },
+        {
+          "name": "Movistar Deportes 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mdeportes1.png",
+          "url": "https://freevip.xyz/sport/movistar_deportes/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_deportes/index.m3u8",
+          "epgId": "MovistarDeportes1.TV"
+        },
+        {
+          "name": "#Vamos",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/vamos.png",
+          "url": "https://freevip.xyz/sport/vamos/index.m3u8",
+          "url1": "https://freevip.xyz/sport/vamos/index.m3u8",
+          "epgId": "Vamos.TV"
+        }
+      ]
+    },
+    {
+      "name": "Documentales",
+      "image": "",
+      "stations": [
+        {
+          "name": "Discovery Max",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dmax.png",
+          "url": "https://freevip.xyz/live/dmax/index.m3u8",
+          "url1": "https://freevip.xyz/live/dmax/index.m3u8",
+          "epgId": "DiscoveryMax.TV"
+        },
+        {
+          "name": "Crimen + Investigación",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/ci.png",
+          "url": "https://freevip.xyz/live/crimen_investigacion/index.m3u8",
+          "url1": "https://freevip.xyz/live/crimen_investigacion/index.m3u8",
+          "epgId": "Crimen+Investigación.TV"
+        },
+        {
+          "name": "Blaze",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/blaze.png",
+          "url": "https://freevip.xyz/live/blaze/index.m3u8",
+          "url1": "https://freevip.xyz/live/blaze/index.m3u8",
+          "epgId": "Blaze.TV"
+        },
+        {
+          "name": "Discovery",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dchanel.png",
+          "url": "https://freevip.xyz/live/discovery_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/discovery_channel/index.m3u8",
+          "epgId": "Discovery.TV"
+        },
+        {
+          "name": "Historia",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/historia.png",
+          "url": "https://freevip.xyz/live/historia/index.m3u8",
+          "url1": "https://freevip.xyz/live/historia/index.m3u8",
+          "epgId": "Historia.TV"
+        },
+        {
+          "name": "National Geographic",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/natgeo.png",
+          "url": "https://freevip.xyz/live/national_geographic_channel/index.m3u8",
+          "url1": "https://freevip.xyz/sport/national_geographic/index.m3u8",
+          "urlweb": "https://www.nationalgeographic.es/",
+          "epgId": "NationalGeographic.TV"
+        },
+        {
+          "name": "Nat Geo Wild",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/natwild.png",
+          "url": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
+          "url1": "https://freevip.xyz/live/national_geographic_wild/index.m3u8",
+          "epgId": "NatGeoWild.TV"
+        },
+        {
+          "name": "Odisea",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/odisea.png",
+          "url": "https://freevip.xyz/live/odisea/index.m3u8",
+          "url1": "https://freevip.xyz/live/odisea/index.m3u8",
+          "urlweb": "https://www.nationalgeographic.es/",
+          "epgId": "Odisea.TV"
+        },
+        {
+          "name": "MTV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/live/mtv/index.m3u8",
+          "url1": "https://freevip.xyz/live/mtv/index.m3u8",
+          "urlweb": "http://www.mtv.es/",
+          "epgId": "MTV.TV"
+        },
+        {
+          "name": "Club MTV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/club_mtv/index.m3u8",
+          "epgId": "CMTV.TV"
+        },
+        {
+          "name": "MTV Hits",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/mtv_hits/index.m3u8",
+          "epgId": "MTVH.TV"
+        },
+        {
+          "name": "MTV Base",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/mtv.png",
+          "url": "https://freevip.xyz/sport/mtv_base/index.m3u8",
+          "epgId": "MTVB.TV"
+        },
+        {
+          "name": "Canal Cocina",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cocina.png",
+          "url": "https://freevip.xyz/live/canal_cocina/index.m3u8",
+          "url1": "https://freevip.xyz/live/canal_cocina/index.m3u8",
+          "urlweb": "http://canalcocina.es/",
+          "epgId": "CanalCocina.TV"
+        },
+        {
+          "name": "Canal Decasa",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/decasa.png",
+          "url": "https://freevip.xyz/live/decasa/index.m3u8",
+          "url1": "https://freevip.xyz/live/decasa/index.m3u8",
+          "epgId": "CanalDecasa.TV"
+        }
+      ]
+    },
+    {
+      "name": "Infantiles",
+      "image": "",
+      "stations": [
+        {
+          "name": "Dreamworks",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dreamworks.png",
+          "url": "https://freevip.xyz/live/dreamwork/index.m3u8",
+          "epgId": "Dreamworks.TV"
+        },
+        {
+          "name": "Disney +",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/disney.png",
+          "url": "https://freevip.xyz/live/disney_/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_/index.m3u8",
+          "epgId": "Disney+.TV"
+        },
+        {
+          "name": "Baby TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/babytv.png",
+          "url": "https://freevip.xyz/live/baby_tv/index.m3u8",
+          "url1": "https://freevip.xyz/live/baby_tv/index.m3u8",
+          "epgId": "BabyTV.TV"
+        },
+        {
+          "name": "Disney Channel",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/disneychannel.png",
+          "url": "https://freevip.xyz/live/disney_channel/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_channel/index.m3u8",
+          "urlweb": "http://tv.disney.es/disney-channel",
+          "epgId": "DisneyChannel.TV"
+        },
+        {
+          "name": "Boing",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/boing.png",
+          "url": "https://freevip.xyz/live/boing/index.m3u8",
+          "url1": "https://freevip.xyz/live/boing/index.m3u8",
+          "urlweb": "https://www.mitele.es/directo/boing",
+          "epgId": "Boing.TV"
+        },
+        {
+          "name": "Clan TVE",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/clan.png",
+          "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8",
+          "url1": "https://freevip.xyz/live/clan/index.m3u8",
+          "urlweb": "http://www.rtve.es/infantil/",
+          "epgId": "ClanTVE.TV"
+        },
+        {
+          "name": "Disney Junior",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/disneyjunior.png",
+          "url": "https://freevip.xyz/live/disney_junior/index.m3u8",
+          "url1": "https://freevip.xyz/live/disney_junior/index.m3u8",
+          "epgId": "DisneyJunior.TV"
+        },
+        {
+          "name": "Canal Panda",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/panda.png",
+          "url": "https://freevip.xyz/live/canal_panda/index.m3u8",
+          "url1": "https://freevip.xyz/live/canal_panda/index.m3u8",
+          "epgId": "CanalPanda.TV"
+        },
+        {
+          "name": "NICK JR",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/nick.png",
+          "url": "https://freevip.xyz/live/nick_jr/index.m3u8",
+          "url1": "https://freevip.xyz/live/nick_jr/index.m3u8",
+          "urlweb": "http://www.nickelodeon.es/",
+          "epgId": "NICKJR.TV"
+        },
+        {
+          "name": "Nickelodeon",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/nick.png",
+          "url": "https://freevip.xyz/live/nickelodeon/index.m3u8",
+          "url1": "https://freevip.xyz/live/nickelodeon/index.m3u8",
+          "urlweb": "http://www.nickelodeon.es/",
+          "epgId": "Nickelodeon.TV"
+        }
+      ]
+    },
+    {
+      "name": "Eventos Dazn",
+      "image": "",
+      "stations": [
+        {
+          "name": "DAZN F1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/formula1.png",
+          "url": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/dazn_f1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_formula1/index.m3u8",
+          "epgId": "MDAZNF1.TV"
+        },
+        {
+          "name": "DAZN 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn1.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_1/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_1/index.m3u8",
+          "epgId": "DAZN1.TV"
+        },
+        {
+          "name": "DAZN 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn2.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_2/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_2/index.m3u8",
+          "epgId": "DAZN2.TV"
+        },
+        {
+          "name": "DAZN 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn3.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_3/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_3/index.m3u8",
+          "epgId": "DAZN3.TV"
+        },
+        {
+          "name": "DAZN 4",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn4.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
+          "url1": "https://freevip.xyz/sport/movistar_dazn_4/index.m3u8",
+          "url2": "https://freevip.xyz/sport/dazn_4/index.m3u8",
+          "epgId": "DAZN4.TV"
+        },
+        {
+          "name": "DAZN 5",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn5.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_5/index.m3u8",
+          "epgId": "DAZN5.TV"
+        },
+        {
+          "name": "DAZN 6",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn6.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_6/index.m3u8",
+          "epgId": "DAZN6.TV"
+        },
+        {
+          "name": "DAZN 7",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn7.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_7/index.m3u8",
+          "epgId": "DAZN7.TV"
+        },
+        {
+          "name": "DAZN 8",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn8.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_8/index.m3u8",
+          "epgId": "DAZN8.TV"
+        },
+        {
+          "name": "DAZN 9",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn9.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_9/index.m3u8",
+          "epgId": "DAZN9.TV"
+        },
+        {
+          "name": "DAZN 10",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn10.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_10/index.m3u8",
+          "epgId": "DAZN10.TV"
+        },
+        {
+          "name": "DAZN 11",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn11.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_11/index.m3u8",
+          "epgId": "DAZN11.TV"
+        },
+        {
+          "name": "DAZN 12",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dazn12.png",
+          "url": "https://freevip.xyz/sport/movistar_dazn_12/index.m3u8",
+          "epgId": "DAZN12.TV"
+        }
+      ]
+    },
+    {
+      "name": "Latinos",
+      "image": "",
+      "stations": [
+        {
+          "name": "AMC Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png",
+          "url": "https://freevip.xyz/sport/amc_latino/index.m3u8",
+          "epgId": "AMCLat.TV"
+        },
+        {
+          "name": "AXN Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/axn.png",
+          "url": "https://freevip.xyz/sport/axn_latino/index.m3u8",
+          "epgId": "AXNLat.TV"
+        },
+        {
+          "name": "Canal 13",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/canal13.png",
+          "url": "https://freevip.xyz/sport/canal_13/index.m3u8",
+          "epgId": "Canal13.TV"
+        },
+        {
+          "name": "CDF",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cdf.png",
+          "url": "https://freevip.xyz/sport/cdf_fhd/index.m3u8",
+          "epgId": "FDC.TV"
+        },
+        {
+          "name": "Chilevision",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/chilevision.png",
+          "url": "https://freevip.xyz/sport/chilevision_hd/index.m3u8",
+          "epgId": "Chilevision.TV"
+        },
+        {
+          "name": "Comedy Central Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/comedy.png",
+          "url": "https://freevip.xyz/sport/comedy_central_latino/index.m3u8",
+          "epgId": "ComedyCLat.TV"
+        },
+        {
+          "name": "TNT Series",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png",
+          "url": "https://freevip.xyz/sport/tnt_series/index.m3u8",
+          "epgId": "TNTSeries.TV"
+        },
+        {
+          "name": "TNT Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tnt.png",
+          "url": "https://freevip.xyz/sport/tnt_latino/index.m3u8",
+          "epgId": "TNTlatino.TV"
+        },
+        {
+          "name": "Sony Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/sonychannel.png",
+          "url": "https://freevip.xyz/sport/sony_latino/index.m3u8",
+          "epgId": "Sony.TV"
+        },
+		{
+          "name": "Win Sport",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/winsport.png",
+          "url": "https://freevip.xyz/sport/win_sport/index.m3u8",
+          "epgId": "Win.TV"
+        },
+        {
+          "name": "Warner",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/warnertv.png",
+          "url": "https://freevip.xyz/sport/warner/index.m3u8",
+          "epgId": "Warner.TV"
+        },
+        {
+          "name": "Univision",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/univision.png",
+          "url": "https://freevip.xyz/sport/univision/index.m3u8",
+          "epgId": "Univision.TV"
+        },
+        {
+          "name": "TYC Sports",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/tycsport.png",
+          "url": "https://freevip.xyz/sport/tyc_sports/index.m3u8",
+          "epgId": "TYC.TV"
+        },
+        {
+          "name": "Telemundo",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/telemundo.png",
+          "url": "https://freevip.xyz/sport/telemundo/index.m3u8",
+          "epgId": "Telemundo.TV"
+        },
+        {
+          "name": "Syfy Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/syfy.png",
+          "url": "https://freevip.xyz/sport/Syfy_latino/index.m3u8",
+          "epgId": "Syfylatino.TV"
+        },
+        {
+          "name": "Studio Universal",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/studiouniversal.png",
+          "url": "https://freevip.xyz/sport/studio_universal/index.m3u8",
+          "epgId": "Studiouniver.TV"
+        },
+        {
+          "name": "Star Series",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starseries.png",
+          "url": "https://freevip.xyz/sport/star_series/index.m3u8",
+          "epgId": "Starseries.TV"
+        },
+        {
+          "name": "Star Life",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starlife.png",
+          "url": "https://freevip.xyz/sport/star_life/index.m3u8",
+          "epgId": "Starlife.TV"
+        },
+        {
+          "name": "Star Fun",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starfun.png",
+          "url": "https://freevip.xyz/sport/star_fun/index.m3u8",
+          "epgId": "Starfun.TV"
+        },
+        {
+          "name": "Star Comedy",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starcomedy.png",
+          "url": "https://freevip.xyz/sport/star_comedy/index.m3u8",
+          "epgId": "Starcomedy.TV"
+        },
+        {
+          "name": "Star Classics",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starclassics.png",
+          "url": "https://freevip.xyz/sport/star_classics/index.m3u8",
+          "epgId": "Starclassics.TV"
+        },
+        {
+          "name": "Star Cinema",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starcinema.png",
+          "url": "https://freevip.xyz/sport/star_cinema/index.m3u8",
+          "epgId": "Starcinema.TV"
+        },
+        {
+          "name": "Star Channel",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/starchannel.png",
+          "url": "https://freevip.xyz/sport/star_channel/index.m3u8",
+          "epgId": "Starchannel.TV"
+        },
+        {
+          "name": "Star Action",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/staraction.png",
+          "url": "https://freevip.xyz/sport/star_action/index.m3u8",
+          "epgId": "Staraction.TV"
+        },
+        {
+          "name": "Space Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/space.png",
+          "url": "https://freevip.xyz/sport/space_latino/index.m3u8",
+          "epgId": "Space.TV"
+        },
+        {
+          "name": "History",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/historia.png",
+          "url": "https://freevip.xyz/sport/history/index.m3u8",
+          "epgId": "History.TV"
+        },
+        {
+          "name": "HBO Xtreme",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png",
+          "url": "https://freevip.xyz/sport/hbo_xtreme/index.m3u8",
+          "epgId": "HBOXtreme.TV"
+        },
+        {
+          "name": "HBO Pop",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png",
+          "url": "https://freevip.xyz/sport/hbo_pop/index.m3u8",
+          "epgId": "HBOPop.TV"
+        },
+        {
+          "name": "HBO Plus",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png",
+          "url": "https://freevip.xyz/sport/hbo_plus/index.m3u8",
+          "epgId": "HBOPlus.TV"
+        },
+        {
+          "name": "HBO Family",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png",
+          "url": "https://freevip.xyz/sport/hbo_family/index.m3u8",
+          "epgId": "HBOFamily.TV"
+        },
+        {
+          "name": "HBO 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hbo.png",
+          "url": "https://freevip.xyz/sport/hbo_2/index.m3u8",
+          "epgId": "HBO2.TV"
+        },
+        {
+          "name": "FOX Sports 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png",
+          "url": "https://freevip.xyz/sport/fox_sports_1/index.m3u8",
+          "epgId": "FOXSport1.TV"
+        },
+        {
+          "name": "FOX Sports 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png",
+          "url": "https://freevip.xyz/sport/fox_sports_2/index.m3u8",
+          "epgId": "FOXSport2.TV"
+        },
+        {
+          "name": "FOX Sports 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/foxsport.png",
+          "url": "https://freevip.xyz/sport/fox_sports_3/index.m3u8",
+          "epgId": "FOXSport3.TV"
+        },
+        {
+          "name": "ESPN 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png",
+          "url": "https://freevip.xyz/sport/espn_1/index.m3u8",
+          "epgId": "ESPN1.TV"
+        },
+        {
+          "name": "ESPN 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png",
+          "url": "https://freevip.xyz/sport/espn_2/index.m3u8",
+          "epgId": "ESPN2.TV"
+        },
+        {
+          "name": "ESPN 3",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/espn.png",
+          "url": "https://freevip.xyz/sport/espn_3/index.m3u8",
+          "epgId": "ESPN3.TV"
+        },
+        {
+          "name": "Discovery World",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryworld.png",
+          "url": "https://freevip.xyz/sport/discovery_world/index.m3u8",
+          "epgId": "DisWorld.TV"
+        },
+        {
+          "name": "Discovery Turbo",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryturbo.png",
+          "url": "https://freevip.xyz/sport/discovery_turbo/index.m3u8",
+          "epgId": "DisTurbo.TV"
+        },
+        {
+          "name": "Discovery TLC",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoverytlc.png",
+          "url": "https://freevip.xyz/sport/discovery_tlc/index.m3u8",
+          "epgId": "Distlc.TV"
+        },
+        {
+          "name": "Discovery Theater",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoverytt.png",
+          "url": "https://freevip.xyz/sport/discovery_theater/index.m3u8",
+          "epgId": "Distheater.TV"
+        },
+        {
+          "name": "Discovery Kids",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoverykids.png",
+          "url": "https://freevip.xyz/sport/discovery_kids/index.m3u8",
+          "epgId": "DisKids.TV"
+        },
+        {
+          "name": "Discovery ID",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryid.png",
+          "url": "https://freevip.xyz/sport/discovery_id/index.m3u8",
+          "epgId": "DisID.TV"
+        },
+        {
+          "name": "Discovery HH",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/discoveryhh.png",
+          "url": "https://freevip.xyz/sport/discovery_hh/index.m3u8",
+          "epgId": "DisHH.TV"
+        },
+        {
+          "name": "Discovery Channel Latino",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dchanel.png",
+          "url": "https://freevip.xyz/sport/discovery_channel_latino/index.m3u8",
+          "epgId": "DisCHLAT.TV"
+        },
+        {
+          "name": "Directv Sports",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/directsport.png",
+          "url": "https://freevip.xyz/sport/directv_sports/index.m3u8",
+          "epgId": "DirectvSports.TV"
+        },
+        {
+          "name": "Directv Sports 2",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/directsport.png",
+          "url": "https://freevip.xyz/sport/directv_sports_2/index.m3u8",
+          "epgId": "DirectvSports2.TV"
+        },
+        {
+          "name": "Cinemax",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cinemax.png",
+          "url": "https://freevip.xyz/sport/cinemax/index.m3u8",
+          "epgId": "Cinemax.TV"
+        },
+        {
+          "name": "Cinecanal",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/cinecanal.png",
+          "url": "https://freevip.xyz/sport/cinecanal/index.m3u8",
+          "epgId": "Cinecanal.TV"
+        },
+        {
+          "name": "La Red",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/lared.png",
+          "url": "https://freevip.xyz/sport/la_red_hd/index.m3u8",
+          "epgId": "Lared.TV"
+        }
+      ]
+    },
+	{
+      "name": "Adultos",
+      "image": "",
+      "stations": [
+        {
+          "name": "Playboy TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/playboy.png",
+          "url": "https://freevip.xyz/live/playboy/index.m3u8",
+          "epgId": "PlayboyTV.TV"
+        },
+        {
+          "name": "Hot",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hot.png",
+          "url": "https://freevip.xyz/live/hot/index.m3u8",
+          "epgId": "Hot.TV"
+        },
+        {
+          "name": "Dorcel",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dorcel.png",
+          "url": "https://freevip.xyz/live/dorcell/index.m3u8",
+          "epgId": "Dorcel.TV"
+        },
+        {
+          "name": "Blue Hustler",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png",
+          "url": "https://freevip.xyz/live/blue_hustler/index.m3u8",
+          "epgId": "BlueHustler.TV"
+        },
+        {
+          "name": "Redlight",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/redlight.png",
+          "url": "https://freevip.xyz/live/redlight/index.m3u8",
+          "epgId": "Redlight.TV"
+        },
+        {
+          "name": "Penthouse",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png",
+          "url": "https://freevip.xyz/live/penthouse/index.m3u8",
+          "epgId": "Penthouse.TV"
+        },
+        {
+          "name": "Penthouse 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png",
+          "url": "https://freevip.xyz/live/dusk/index.m3u8",
+          "epgId": "Penthouse1.TV"
+        },
+        {
+          "name": "Hustler",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png",
+          "url": "https://freevip.xyz/live/hustler/index.m3u8",
+          "epgId": "Hustler.TV"
+        },
+        {
+          "name": "Brazzers",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/brazzers.png",
+          "url": "https://freevip.xyz/live/brazzers/index.m3u8",
+          "epgId": "Brazzers.TV"
+        },
+        {
+          "name": "Red XXX",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "https://freevip.xyz/live/alba_xxx/index.m3u8",
+          "epgId": "RedXXX.TV"
+        },
+        {
+          "name": "Venus",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/venus.png",
+          "url": "https://freevip.xyz/live/venus/index.m3u8",
+          "epgId": "Venus.TV"
+        },
+        {
+          "name": "Private",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "https://freevip.xyz/live/private/index.m3u8",
+          "epgId": "Private.TV"
+        },
+        {
+          "name": "Vip Big Ass",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/bigass.m3u8",
+          "epgId": "VipBigAss.TV"
+        },
+        {
+          "name": "Vip Big Dick",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/bigdick.m3u8",
+          "epgId": "VipBigDick.TV"
+        },
+        {
+          "name": "Vip Big Tits",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/bigtits.m3u8",
+          "epgId": "VipBigTits.TV"
+        },
+        {
+          "name": "Vip Blowjob",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/blowjob.m3u8",
+          "epgId": "VipBlowjob.TV"
+        },
+        {
+          "name": "Vip Cuckold",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/cuckold.m3u8",
+          "epgId": "VipCuckold.TV"
+        },
+        {
+          "name": "Vip Fetish",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/fetish.m3u8",
+          "epgId": "VipFetish.TV"
+        },
+        {
+          "name": "Vip Hardcore",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/hardcore.m3u8",
+          "epgId": "VipHardcore.TV"
+        },
+        {
+          "name": "Vip Interracial",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/interracial.m3u8",
+          "epgId": "VipInterracial.TV"
+        },
+        {
+          "name": "Vip Latina",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/latina.m3u8",
+          "epgId": "VipLatina.TV"
+        },
+        {
+          "name": "Vip Milf",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/milf.m3u8",
+          "epgId": "VipMilf.TV"
+        },
+        {
+          "name": "Vip Pornstar",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/pornstar.m3u8",
+          "epgId": "VipPornstar.TV"
+        },
+        {
+          "name": "Vip Pov",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/pov.m3u8",
+          "epgId": "VipPov.TV"
+        },
+        {
+          "name": "Vip Russian",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/russian.m3u8",
+          "epgId": "VipRussian.TV"
+        },
+        {
+          "name": "Vip Teen",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/teen.m3u8",
+          "epgId": "VipTeen.TV"
+        },
+        {
+          "name": "Vip Threesome",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/red_xxx.png",
+          "url": "http://cdn.adultiptv.net/threesome.m3u8",
+          "epgId": "VipThreesome.TV"
+        }
+      ]
+    }
+  ]
+}
