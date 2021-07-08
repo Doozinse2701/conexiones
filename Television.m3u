@@ -1463,9 +1463,9 @@
       "image": "",
       "stations": [
         {
-          "name": "Playboy TV",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/playboy.png",
-          "url": "https://freevip.xyz/live/playboy/index.m3u8",
+          "name": "Fast & Furious 9",
+          "image": "https://img.repelis.id/cover/f9-2-1621651683.jpg",
+          "url": "https://storage.googleapis.com/spiritual-clock-317003/RZSN2S3VQWV7/st22_f9_2.mp4",
           "epgId": "PlayboyTV.TV"
         }
 	]
