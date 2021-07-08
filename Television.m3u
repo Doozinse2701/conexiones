@@ -1457,7 +1457,19 @@
           "epgId": "VipThreesome.TV"
         }
       ]
-    }
+    },
+    {
+      "name": "Peliculas",
+      "image": "",
+      "stations": [
+        {
+          "name": "Playboy TV",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/playboy.png",
+          "url": "https://freevip.xyz/live/playboy/index.m3u8",
+          "epgId": "PlayboyTV.TV"
+        }
+	]
+	}
   ]
 }
 
