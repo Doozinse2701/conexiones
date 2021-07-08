@@ -1469,11 +1469,12 @@
           "epgId": "PlayboyTV.TV"
         }
 	]
-	},
-	 {
-   "groups": [
+	}
+	
+  ]
+    "groups": [
     {
-      "name": "Naci",
+      "name": "Nacionales",
       "image": "",
       "stations": [
         {
@@ -1485,13 +1486,11 @@
           "urlweb": "http://www.rtve.es/directo/la-1/",
           "epgId": "LA1.TV"
         }
-	]
-	}
-	
-}
-	
-  ]
   
- 
+ ]
+
+}
+
+]
 
 }
