@@ -1471,5 +1471,20 @@
 	]
 	}
   ]
+  },
+  {  "groups": [
+    {"name": "Peliculas",
+      "image": "",
+      "stations": [
+        {
+          "name": "Fast & Furious 9",
+          "image": "https://img.repelis.id/cover/f9-2-1621651683.jpg",
+          "url": "https://storage.googleapis.com/spiritual-clock-317003/RZSN2S3VQWV7/st22_f9_2.mp4",
+          "epgId": "PlayboyTV.TV"
+        }
+	]
+	}
+  
+  ]
 }
 
