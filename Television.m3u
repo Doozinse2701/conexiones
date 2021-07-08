@@ -1471,9 +1471,10 @@
 	]
 	}
   ]
+  {
    "groups": [
     {
-      "name": "Nacionales",
+      "name": "Naci",
       "image": "",
       "stations": [
         {
@@ -1486,6 +1487,7 @@
           "epgId": "LA1.TV"
         }
 	]
+	}
 	}
 }
 
