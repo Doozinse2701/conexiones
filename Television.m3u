@@ -1461,8 +1461,7 @@
       ]
      }
    ]
- }
- {
+    {
   "name": "Conexiones Salcedo TV",
   "author": "Conexiones Salcedo TV",
   "url": "https://raw.githubusercontent.com/jeepeers/player/main/screen",
@@ -1489,4 +1488,6 @@
       ]
      }
    ]
+ }
+
  }
