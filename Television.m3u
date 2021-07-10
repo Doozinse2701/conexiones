@@ -1462,3 +1462,31 @@
      }
    ]
  }
+ {
+  "name": "Conexiones Salcedo TV",
+  "author": "Conexiones Salcedo TV",
+  "url": "https://raw.githubusercontent.com/jeepeers/player/main/screen",
+  "down": "https://pastebin.com/raw/2i4VwdYi",
+  "epg": "",
+  "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/icono.jpg",
+  "telegram": "",
+  "info": "Playlist",
+  "groups": [
+    {
+      "name": "Nacionales",
+      "image": "",
+      "stations": [
+        {
+          "name": "LA 1",
+          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/la1.png",
+          "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
+          "url1": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+          "url2": "https://freevip.xyz/sport/la_1/index.m3u8",
+          "urlweb": "http://www.rtve.es/directo/la-1/",
+          "epgId": "LA1.TV"     
+        
+        }
+      ]
+     }
+   ]
+ }
