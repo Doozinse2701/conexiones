@@ -30,7 +30,7 @@
           "epgId": "LA2.TV"
         },
         {
-          "name": "Antena 3",
+          "name": "Antena 3", 
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/antena3.png",
           "url": "https://freevip.xyz/live/antena_3/index.m3u8",
           "url1": "https://directo.atresmedia.com/1608011979_512feb2ea89b01ae66d39bf79efd383f84db8eec/antena3/master.m3u8",
