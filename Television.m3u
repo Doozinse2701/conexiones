@@ -1,7 +1,12 @@
 {
-  "name": "Conexiones Salcedo TV",
-  "author": "Ing. Obdin Salcedo",
-  "groups": [
+ "name": "Conexiones Salcedo TV",
+  "author": "Conexiones Salcedo TV",
+  "url": "https://raw.githubusercontent.com/jeepeers/player/main/screen",
+  "down": "https://pastebin.com/raw/2i4VwdYi",
+  "epg": "",
+  "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/icono.jpg",
+  "telegram": "",
+  "info": "Playlist",
     {
       "name": "Nacionales",
       "image": "",
